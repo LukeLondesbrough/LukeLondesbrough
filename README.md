@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I am Luke.
+I am a Mathematics graduate with a interest in statistics and data.
+## Current Focuses
+I am currently trying to up level my tech skills in a range of software. (SQL, MongoDB, Python, Rstudio , ect...)
+### Notable Projects
+- **GLMs vs Neural Networks** – A project comparing statistical models and deep learning on real-world data  
+- **StarCraft II AI Bot** – Strategic game bot using BurnySc2 python repo.  
 
 <!--
 **LukeLondesbrough/LukeLondesbrough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
